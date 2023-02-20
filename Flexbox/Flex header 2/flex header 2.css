@@ -1,0 +1,60 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    padding: 8px;
+}
+
+body {
+    background-color: rgba(178, 172, 172, 0.865);
+    margin: 0px;
+}
+
+.left-items {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.logo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 25px;
+    font-style: italic;
+}
+
+a, .header {
+    color: blueviolet;
+}
+
+.links, a {
+    display: flex;
+    list-style: none; 
+    text-decoration: none;
+    padding: 5px;
+    margin: 0;
+}
+
+.right-items {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.notifications {
+    color: white;
+    background-color: blueviolet;
+    border-color: #290939;
+    border-radius: 5px;
+    margin: 8px;
+}
+
+.profile-image {
+    background-color: blueviolet;
+    border-color: #290939;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+}
+

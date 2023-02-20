@@ -1,0 +1,38 @@
+.list-items {
+    background-color: bisque;
+    color: blue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    color: rgb(245, 111, 63);
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular';
+    font-size: 30px;
+    padding: 1px;
+    margin: 8px;
+    background-color: white;
+}
+
+.left-links {
+    display: flex;
+    gap: 10px;
+}
+
+.number {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 12px;
+    background-color: white;
+    padding: 5px;
+}
+
+.right-links {
+    display: flex;
+    gap: 10px;
+}

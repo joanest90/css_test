@@ -1,0 +1,23 @@
+.pinkbr {
+    background-color:rgba(231, 47, 15, 0.4);
+    font-family: verdana, DejaVu Sans, sans-serif;
+    }
+
+.size {
+    font-size: 24px;
+    font-weight: lighter;
+    }
+
+#even1 {
+    color: rgba(25, 15, 226, 0.78);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 36px;
+    font-weight: bold;
+    }
+
+#even2 {
+    background-color: rgba(10, 214, 23, 0.904);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    }
